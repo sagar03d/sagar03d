@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Sagar](https://rusty-sj.github.io/)! 😁
+### Hi there 👋, I am [Sagar](https://sagar03d.github.io/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
