@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, I am a software developer with three years of experience working as a Software Engineer. My technology stack involves PHP , Laravel, NodeJS, ExpressJS, MySQL, javascript and HTML/CSS/Bootstrap. Besides programming, I love reading books and solo travelling.
+Hello, I am a software developer with five years of experience working as a Software Engineer. My technology stack involves PHP , Laravel, NodeJS, ExpressJS, MySQL, javascript and HTML/CSS/Bootstrap. Besides programming, I love reading books and solo travelling.
 
 - 💬 Brainstorm with me over tech, algorithms, career, and destinations 
 - 📫 How to reach me: sagar03d@gmail.com
